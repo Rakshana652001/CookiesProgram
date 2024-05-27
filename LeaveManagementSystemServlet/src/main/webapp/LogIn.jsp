@@ -16,6 +16,3 @@ PassWord: <input type="password" name="password">
 </form>
 </body>
 </html>
-
-
-
